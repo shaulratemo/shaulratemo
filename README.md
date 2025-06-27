@@ -54,7 +54,7 @@
 |--------|-------------|-----------|------|
 | 🌍 Linda Watoto Charity Website (In Progress) | Showcases a nonprofit’s mission, supports donations (cash & materials), and lets users join the initiative. | HTML, CSS, JS, PHP | *(Repo coming soon)* |
 | 📚 Library Management System (CLI) | A terminal-based system to manage book inventory, borrowing/returns, and member registrations. | Python | [GitHub Repo](https://github.com/shaulratemo/Library-Management-System/blob/main/README.md) |
-| 🎓 ALX Software Design Project | A mock learning website focused on design and layout principles. | UI Design | *(Repo not yet published)* |
+| 🎓 Learnister Design Project | A project foocused on integrating AI into career paths | UI Design | [GitHub Repo](https://github.com/shaulratemo/Learnister-Design/blob/main/README.md) |
 
 ---
 
