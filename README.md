@@ -1,27 +1,19 @@
-<h1>Hi, I'm Shaul! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="#">UI/UX Designer</a>, <a href="#">Logo Designer</a></h1>
+<h1 align="center">Hi, I'm Shaul</h1>
+<h3 align="center">A Creative Full-stack Software Developer | Passionate about Purposeful Tech</h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="120px" />
+</p>
 
-- <b>Library Management System (Python & MySQL)</b>
-  - [Praciting Database Programming in Python](https://github.com/Lunqurt/Library-Management-System)
-- <b>Hospital Management System (HTML, CSS, JavaScript, PHP, MySQL, XAMPP)</b>
-  - [Website Pages](https://github.com/Lunqurt/MediVerse)
-- <b>E-Commerce Website (HTML, CSS, JavaScript, PHP, MySQL, XAMPP)</b>
-  - [One stop online store for University students](https://github.com/Lunqurt/MediVerse)
-- <b>Charity Website</b>
-  - [Static website for a charity organization](https://github.com/Lunqurt/MediVerse).
- 
+---
 
-<h2>My Skills</h2>
+## 🌱 About Me
 
-- Frontend: HTML, CSS, JavaScript
-- UI Design: Figma
-- Backend: PHP, Python, Java , C++, MySQL
-- Tools: VS Code, XAMPP, Eclipse
+```html
+<!-- You can customize this box with your own styling in future -->
+<blockquote>
+  I began my journey in programming during high school, fueled by a desire to build impactful software with a purpose. Over time, I discovered a strong creative side, drawn to design—from sketching cars to creating logos, web UIs, and digital posters.
 
-<h2> 🤳 Connect with me:</h2>
+  Today, I'm a Backend Web Development Learner at <strong>ALX</strong>, striving to blend logic and design into elegant, useful systems. Whether it’s a clean backend architecture or a stunning user interface, my goal is to build things that serve communities and inspire creativity worldwide.
+</blockquote>
 
-- Email: ratemoshaul@gmail.com
-- Youtube: https://www.youtube.com/@ShaulRatemo
-- Instagram: https://www.instagram.com/_shau.llific_/
-- Linkedin: https://www.linkedin.com/in/shaulratemo/
