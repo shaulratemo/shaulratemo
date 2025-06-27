@@ -1,3 +1,5 @@
+<img src="https://github.com/shaulratemo/shaulratemo/blob/main/banner.png?raw=true" alt="Shaul R. Banner" style="width:100%;"/>
+
 <h1 align="center">Hi there 👋, I'm Shaul R.</h1>
 <h3 align="center">UI/UX Designer · Logo Designer · Full-Stack Web Dev · ALX Backend Student</h3>
 <p align="center"><em>Coding with purpose, Designing for users</em></p>
