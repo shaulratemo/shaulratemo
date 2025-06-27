@@ -24,4 +24,4 @@
 - Email: ratemoshaul@gmail.com
 - Youtube: https://www.youtube.com/@ShaulRatemo
 - Instagram: https://www.instagram.com/_shau.llific_/
-- Linkedin: https://linkedin.com/in/joshmadakor
+- Linkedin: https://www.linkedin.com/in/shaulratemo/
