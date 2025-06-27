@@ -9,8 +9,6 @@
 
 ## 🌱 About Me
 
-```html
-<!-- You can customize this box with your own styling in future -->
 <blockquote>
   I began my journey in programming during high school, fueled by a desire to build impactful software with a purpose. Over time, I discovered a strong creative side, drawn to design—from sketching cars to creating logos, web UIs, and digital posters.
 
